@@ -1,6 +1,7 @@
 # Real-Time-3D-Body-Scanning-for-Custom-Clothing
 
 ### Project Overview
+
 The fashion and retail industries are increasingly embracing technology to offer personalized experiences to customers. This project proposes the development of a real-time 3D body scanning system to enable custom clothing fitting. By using advanced iterative image reconstruction techniques, similar to those employed in CBCT imaging, the system will create highly accurate 3D models of customers' bodies. These models can be used to generate tailor-made clothing recommendations, ensuring a perfect fit every time.
 
 
